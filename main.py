@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 from openpyxl import Workbook, load_workbook
-###123
+
 ##delete this
 web = webdriver.Chrome('/Users/genesissales/PycharmProjects/RobotChulllienForm/venv/lib/python3.8/site-packages/selenium/chromedriver')
 web.get('https://forms.office.com/Pages/DesignPage.aspx?auth_pvr=WindowsLiveId&auth_upn=genxsolarservices%40gmail.com&lang=en-PH&origin=OfficeDotCom&route=Start#Analysis=true&FormId=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAT2kdaNUODY4NVBROU5JT1FIQk84VU1EUjZQTFlWMi4u')
